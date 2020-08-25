@@ -3,14 +3,14 @@
 ## Audience
 1. Small time content publishers
 2. Niche single publisher for a specific high-end audience (Celebrities)
-3. Schools , universities, Clubs, any other industry that wants to reach out
+3. Schools , universities, clubs, any other industry that wants to reach out
 
 
 ## Technology
 
 
 ## Integrations
-1. Web pblisher
+1. Web publisher
 2. Facebook publisher
 3. Web to print tools
 
